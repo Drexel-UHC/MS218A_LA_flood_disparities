@@ -4,3 +4,6 @@ Social disparities in flood exposure and associations with the urban environment
 Climate Change and Urban Health in Latin America (SALURBAL-Climate) Project
 
 Corresponding author: Josiah L Kephart, Drexel University
+
+
+Preprint available at: https://doi.org/10.1101/2024.07.02.24309839 
